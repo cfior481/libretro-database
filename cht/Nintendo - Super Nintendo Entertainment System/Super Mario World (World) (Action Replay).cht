@@ -19,3 +19,15 @@ cheat3_enable = false
 cheat4_desc = "Play as Luigi"
 cheat4_code = "7E0DB301"
 cheat4_enable = false 
+
+cheat5_desc = "Always have yoshi"
+cheat5_code = "7E0DFC10"
+cheat5_enable = false
+
+cheat6_desc = "Flying Yoshi"
+cheat6_code = "DDE0-07A0"
+cheat6_enable = false
+
+cheat7_desc = "Starman"
+cheat7_code = "7E1490FF"
+cheat7_enable = false
